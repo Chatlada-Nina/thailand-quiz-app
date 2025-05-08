@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What dish would you likely cry happily over in Thailand because of its spicy and tangy kick?",
+        "options": [
+            "Pad See Ew",
+            "Khao Pad",
+            "Tom Yum Goong",
+            "Mango Sticky Rice"
+        ],
+        "answer": "Tom Yum Goong"
+    },
+    {
+        "question": "Thailand’s national animal is wise, giant and often seen in temples. Which is it?",
+        "options": [
+            "Tiger",
+            "Peacock",
+            "Elephant",
+            "Water Buffalo"
+        ],
+        "answer": "Elephant"
+    },
+    {
+        "question": "Which festival in Thailand lets you throw water on strangers and it’s totally okay?",
+        "options": [
+            "Yi Peng",
+            "Loi Krathong",
+            "Phi Ta Khon",
+            "Songkran"
+        ],
+        "answer": "Songkran"
+    },
+    {
+        "question": "Which city is home to the dazzling Grand Palace and the famous Reclining Buddha?",
+        "options": [
+            "Bangkok",
+            "Chiang Mai",
+            "Phuket",
+            "Ayutthaya"
+        ],
+        "answer": "Bangkok"
+    },
+    {
+        "question": "Which Thai island was the movie *The Beach* starring Leonardo DiCaprio filmed on?",
+        "options": [
+            "Koh Tao",
+            "Koh Samui",
+            "Koh Phi Phi",
+            "Koh Lanta"
+        ],
+        "answer": "Koh Phi Phi"
+    },
+    {
+        "question": "What is the proper way to greet someone in Thailand?",
+        "options": [
+            "High five",
+            "Handshake",
+            "Bow deeply",
+            "Wai (palms together and slight bow)"
+        ],
+        "answer": "Wai (palms together and slight bow)"
+    },
+    {
+        "question": "During which enchanting Thai festival are thousands of lanterns released into the sky?",
+        "options": [
+            "Songkran",
+            "Yi Peng",
+            "Makha Bucha",
+            "Boon Bang Fai"
+        ],
+        "answer": "Yi Peng"
+    },
+    {
+        "question": "What’s the perfect sweet-salty-satisfying dessert combination you’ll find in Thai street markets?",
+        "options": [
+            "Fried Bananas",
+            "Mango Sticky Rice",
+            "Thai Tea Pancakes",
+            "Coconut Ice Cream Sandwich"
+        ],
+        "answer": "Mango Sticky Rice"
+    },
+    {
+        "question": "In which town do monkeys get their own annual buffet festival?",
+        "options": [
+            "Nakhon Ratchasima",
+            "Lopburi",
+            "Chiang Rai",
+            "Trang"
+        ],
+        "answer": "Lopburi"
+    },
+    {
+        "question": "What is the Thai version of “Bangkok”?",
+        "options": [
+            "Siam",
+            "Bangkok City",
+            "Krung Thep Maha Nakhon",
+            "Chiang Thong"
+        ],
+        "answer": "Krung Thep Maha Nakhon"
+    }
+]

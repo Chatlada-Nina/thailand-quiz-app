@@ -1,0 +1,9 @@
+"node_modules\n.env\ndist" 
+node_modules/
+dist/
+
+# IDE/editor configs
+.vscode/
+.idea/
+*.swp
+.tailwind-cache
