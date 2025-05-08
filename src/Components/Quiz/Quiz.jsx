@@ -2,16 +2,16 @@ import React, { useEffect, useState } from 'react'
 import quizData from "../../assets/quizData.json"
 
 const backgrounds = [
-    "/bg1.jpg",
-    "/bg2.jpg",
-    "/bg3.jpg",
-    "/bg4.jpg",
-    "/bg5.jpg",
-    "/bg6.jpg",
-    "/bg7.jpg",
-    "/bg8.jpg",
-    "/bg9.jpg",
-    "/bg10.jpg",
+    `${import.meta.env.BASE_URL}bg1.jpg`,
+    `${import.meta.env.BASE_URL}bg2.jpg`,
+    `${import.meta.env.BASE_URL}bg3.jpg`,
+    `${import.meta.env.BASE_URL}bg4.jpg`,
+    `${import.meta.env.BASE_URL}bg5.jpg`,
+    `${import.meta.env.BASE_URL}bg6.jpg`,
+    `${import.meta.env.BASE_URL}bg7.jpg`,
+    `${import.meta.env.BASE_URL}bg8.jpg`,
+    `${import.meta.env.BASE_URL}bg9.jpg`,
+    `${import.meta.env.BASE_URL}bg10.jpg`,
 ];
 
 const Quiz = () => {

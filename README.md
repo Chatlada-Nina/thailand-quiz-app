@@ -1,12 +1,69 @@
-# React + Vite
+# Think You Know Thailand? - Quiz App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive and playful quiz app built with **React**, **Vite**, and **Tailwind CSS** that tests your knowledge about Thailand! This project is a blend of creativity, coding and cultural fun — complete with colorful UI, smooth transitions, real-time feedback and personalized results based on your score.
 
-Currently, two official plugins are available:
+![App screenshot](./screenshot.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🧠 Why This Project?
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+I created this app as a hands-on way to strengthen my **React** and **Tailwind CSS** skills. Instead of sticking to tutorials, I chose to learn by building something meaningful, interactive, and infused with my personality and cultural inspiration.
+
+> This project helped me understand how to manage dynamic state, animations, conditional rendering, and responsive design — all while having fun creating a quirky, culturally flavored app!
+
+---
+
+## ✨ Features
+
+- 🎯 10 creative quiz questions about Thailand
+- 🎉 Score feedback with humorous results
+- 🌈 Random background images with smooth fade transition
+- ✅ Real-time feedback on each answer (Correct / Oops!)
+- 🔁 Restartable quiz session
+- 📱 Mobile responsive and centered layout on all screens
+- ⚡ Built with Vite for fast dev/build performance
+
+---
+
+## 🛠️ Tech Stack
+
+- **React** – component-based UI
+- **Vite** – fast build tool
+- **Tailwind CSS** – utility-first styling
+- **JavaScript (ES6+)**
+
+---
+
+## 🙌 Credits
+
+Background images from [Unsplash](https://unsplash.com/) and quiz content are used for educational purposes and creative fun. If you love Thailand or just want to learn more, enjoy the quiz!
+
+---
+
+## 📚 What I Learned
+
+- Mastered state handling and UI updates in React
+
+- Smooth animations with Tailwind transitions
+
+- Structuring a complete SPA with feedback and scoring logic
+
+- Random image handling and transitions
+
+- Building and deploying a full project with modern tools
+
+---
+
+## 📬 Feedback & Contributions
+
+If you have ideas, suggestions, or just enjoyed the quiz — feel free to open an issue or fork the repo and make it your own!
+
+---
+
+## 🔗 License
+This project is open-source and free to use under the MIT License.
+
+---
+
+Let me know if you’d like a deploy script, help adding a screenshot, or automating deployment with GitHub Actions!
